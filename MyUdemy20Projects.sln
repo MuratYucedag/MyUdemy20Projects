@@ -15,11 +15,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5_DapperNorthwind", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project6_ApiWeather", "Project6_ApiWeather\Project6_ApiWeather.csproj", "{109AFD0C-D3C6-4503-82D2-6E1EACF83D37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project7_ApiWeatherConsume", "Project7_ApiWeatherConsume\Project7_ApiWeatherConsume.csproj", "{5F3163F6-8C29-4935-9B15-9CC3B2A5A5A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project7_ApiWeatherConsume", "Project7_ApiWeatherConsume\Project7_ApiWeatherConsume.csproj", "{5F3163F6-8C29-4935-9B15-9CC3B2A5A5A6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project8_RapidApiCurrency", "Project8_RapidApiCurrency\Project8_RapidApiCurrency.csproj", "{DFB7D9F2-E61C-4F35-8678-B4CD66069786}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project9_MongoDbOrder", "Project9_MongoDbOrder\Project9_MongoDbOrder.csproj", "{91BBF7B5-A980-4654-83DB-A3ABD6AEC1B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project10_PostgreSQLToDoListApp", "Project10_PostgreSQLToDoListApp\Project10_PostgreSQLToDoListApp.csproj", "{06EBF196-B3D2-4630-8F4E-046986D944FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project11_TriggerOrderStock", "Project11_TriggerOrderStock\Project11_TriggerOrderStock.csproj", "{406D0BBA-6125-4FFC-8605-9A17C1EF8E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project12_JwtToken", "Project12_JwtToken\Project12_JwtToken.csproj", "{515D49B3-B1E4-41D3-A019-2554D60EC913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_13WeatherApp", "Project_13WeatherApp\Project_13WeatherApp.csproj", "{C6623DD5-AFF2-47C8-8059-9833563F8F21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +71,22 @@ Global
 		{91BBF7B5-A980-4654-83DB-A3ABD6AEC1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91BBF7B5-A980-4654-83DB-A3ABD6AEC1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91BBF7B5-A980-4654-83DB-A3ABD6AEC1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06EBF196-B3D2-4630-8F4E-046986D944FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EBF196-B3D2-4630-8F4E-046986D944FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EBF196-B3D2-4630-8F4E-046986D944FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EBF196-B3D2-4630-8F4E-046986D944FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406D0BBA-6125-4FFC-8605-9A17C1EF8E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406D0BBA-6125-4FFC-8605-9A17C1EF8E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406D0BBA-6125-4FFC-8605-9A17C1EF8E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406D0BBA-6125-4FFC-8605-9A17C1EF8E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515D49B3-B1E4-41D3-A019-2554D60EC913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515D49B3-B1E4-41D3-A019-2554D60EC913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515D49B3-B1E4-41D3-A019-2554D60EC913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515D49B3-B1E4-41D3-A019-2554D60EC913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6623DD5-AFF2-47C8-8059-9833563F8F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6623DD5-AFF2-47C8-8059-9833563F8F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6623DD5-AFF2-47C8-8059-9833563F8F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6623DD5-AFF2-47C8-8059-9833563F8F21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
