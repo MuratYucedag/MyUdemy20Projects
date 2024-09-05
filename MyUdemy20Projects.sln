@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project15_GasPriceSimulatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project16_MailRegister", "Project16_MailRegister\Project16_MailRegister.csproj", "{8D280A19-8723-4D04-B50F-89FD3EBF4B32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project17_KaggleDataset", "Project17_KaggleDataset\Project17_KaggleDataset.csproj", "{F76CEE3D-C7A9-48AD-BA76-A7BED89F9826}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{8D280A19-8723-4D04-B50F-89FD3EBF4B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D280A19-8723-4D04-B50F-89FD3EBF4B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D280A19-8723-4D04-B50F-89FD3EBF4B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76CEE3D-C7A9-48AD-BA76-A7BED89F9826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76CEE3D-C7A9-48AD-BA76-A7BED89F9826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76CEE3D-C7A9-48AD-BA76-A7BED89F9826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76CEE3D-C7A9-48AD-BA76-A7BED89F9826}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
