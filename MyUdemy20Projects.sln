@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project16_MailRegister", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project17_KaggleDataset", "Project17_KaggleDataset\Project17_KaggleDataset.csproj", "{F76CEE3D-C7A9-48AD-BA76-A7BED89F9826}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project18_DashboardSuperStoreDataset", "Project18_DashboardSuperStoreDataset\Project18_DashboardSuperStoreDataset.csproj", "{8A35C213-19D8-4447-AC68-D2A190F54336}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{F76CEE3D-C7A9-48AD-BA76-A7BED89F9826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F76CEE3D-C7A9-48AD-BA76-A7BED89F9826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F76CEE3D-C7A9-48AD-BA76-A7BED89F9826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A35C213-19D8-4447-AC68-D2A190F54336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A35C213-19D8-4447-AC68-D2A190F54336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A35C213-19D8-4447-AC68-D2A190F54336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A35C213-19D8-4447-AC68-D2A190F54336}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
